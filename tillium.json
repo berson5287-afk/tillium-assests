@@ -1,8 +1,16 @@
 {
   "name": "Tillium",
   "symbol": "TIL",
-  "description": "Tillium is a Solana-based POS utility token for fast, non-custodial payments.",
-  "image": "https://github.com/berson5287-afk/tillium-assests/blob/main/tillium.png",
-  "external_url": "https://tillium.xyz"
+  "description": "Fast Solana-native payments for online and in-person commerce.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreigxtublkgr6j5xrd3vggynaftekzutrkb44bs5dyxw57y2e2vi6my",
+  "external_url": "https://tillium.io",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreigxtublkgr6j5xrd3vggynaftekzutrkb44bs5dyxw57y2e2vi6my",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
-
